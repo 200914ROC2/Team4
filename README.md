@@ -1,11 +1,18 @@
 # Team4
 ROC2
 Team 4
+
 Arya 
+
 Phillip
+
 Steven
+
 Jonah
+
 Daniel
+
+http://rocp-fitness.s3-website.us-east-2.amazonaws.com/
 
 # Instructions for Running JSON-Server
 Once you have the branch on your local machine, locate the folder `api`. `db.json` is where the JSON is.
